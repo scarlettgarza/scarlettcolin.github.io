@@ -2880,7 +2880,7 @@ section.projects {
 @media screen and (max-width: 900px) {
   /* line 327, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   header {
-    background-position: initial;
+    background-attachment: initial;
     color: white;
     position: static;
     text-align: center; }
