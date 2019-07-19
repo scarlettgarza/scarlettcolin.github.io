@@ -2686,27 +2686,26 @@ header {
   /* line 101, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   header .arrow-down {
     position: absolute;
-    bottom: 40px;
-    left: 50%; }
-  /* line 107, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+    bottom: 40px; }
+  /* line 106, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   header img {
     height: 15px;
     width: 40px; }
 
-/* line 113, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 112, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 section.about {
   background: white;
   color: #404041;
   height: 100vh;
   text-align: center; }
-  /* line 120, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 119, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.about h6 {
     font-size: 15px;
     font-weight: 700;
     letter-spacing: 4px;
     text-transform: uppercase;
     margin-bottom: 20px; }
-  /* line 128, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 127, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.about .profile-container {
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -2715,47 +2714,47 @@ section.about {
     overflow: hidden;
     width: 180px;
     margin-bottom: 20px; }
-  /* line 136, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 135, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.about h4 {
     font-weight: 400;
     line-height: 30px;
     width: 55%; }
-  /* line 142, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 141, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.about h4 + h4 {
     margin-top: 20px; }
-  /* line 146, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 145, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.about .about-container {
     width: 80%; }
-    /* line 149, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+    /* line 148, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
     section.about .about-container img {
       width: 100%; }
 
-/* line 155, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 154, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 section.text {
   background: #FCFAFD;
   color: #4A4A4A;
   height: 100vh;
   padding: 6em; }
-  /* line 161, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 160, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.text h1 {
     font-weight: 300;
     width: 85%;
     margin: 0 auto; }
 
-/* line 168, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 167, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 section.projects {
   background: white;
   padding: 1em 0; }
-  /* line 174, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 173, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.projects .row.row-2 .bigger, section.projects .row.row-2 .smaller, section.projects .row.row-2 .full {
     margin-right: 0; }
-  /* line 178, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 177, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.projects .row.row-2 .smaller {
     margin-right: 1%; }
-  /* line 183, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 182, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.projects img {
     height: 100%; }
-  /* line 187, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 186, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.projects .bigger, section.projects .smaller, section.projects .full {
     float: left;
     height: 70vh;
@@ -2765,14 +2764,14 @@ section.projects {
     position: relative;
     width: 59%;
     z-index: 100; }
-  /* line 198, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 197, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.projects .smaller {
     margin-right: 0;
     width: 40%; }
-  /* line 204, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 203, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.projects .full {
     width: 100%; }
-  /* line 210, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 209, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.projects .project .img {
     background-size: cover;
     background-repeat: no-repeat;
@@ -2781,7 +2780,7 @@ section.projects {
     height: 100%;
     position: absolute;
     transition: all 0.3s ease-in-out; }
-  /* line 227, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 226, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.projects .hover {
     background: black;
     height: 100%;
@@ -2789,62 +2788,62 @@ section.projects {
     opacity: 0;
     width: 100%;
     transition: all 0.5s ease-in-out; }
-    /* line 235, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+    /* line 234, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
     section.projects .hover .border {
       border: 1px solid white;
       height: 80%;
       margin: 0 auto;
       width: 80%; }
-      /* line 241, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+      /* line 240, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
       section.projects .hover .border h6, section.projects .hover .border h5, section.projects .hover .border a {
         color: white;
         font-size: 15px;
         text-align: center;
         text-decoration: none;
         position: relative; }
-      /* line 249, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+      /* line 248, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
       section.projects .hover .border a {
         font-size: 12px; }
-      /* line 253, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+      /* line 252, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
       section.projects .hover .border a:hover {
         color: tomato; }
-      /* line 257, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+      /* line 256, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
       section.projects .hover .border h6 {
         font-size: 12px;
         letter-spacing: 2px;
         margin: 0; }
-      /* line 263, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+      /* line 262, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
       section.projects .hover .border h5 {
         font-size: 20px; }
 
-/* line 270, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 269, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .contact {
   margin: 0 auto;
   text-align: center;
   background: white;
   color: #404041;
   padding: 5em; }
-  /* line 277, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 276, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   .contact h1 {
     font-size: 50px;
     font-weight: 300;
     margin-bottom: 80px; }
-  /* line 283, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 282, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   .contact h2 {
     font-size: 2em;
     font-weight: 400;
     margin: 30px 0; }
-  /* line 289, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 288, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   .contact a {
     color: #8f6b9b;
     text-decoration: none;
     margin: 5px;
     display: inline-block; }
-  /* line 295, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 294, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   .contact .mail {
     font-size: 2em; }
 
-/* line 300, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 299, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .button {
   padding: 1.5em 4em;
   border: 1px solid #8f6b9b;
@@ -2858,85 +2857,88 @@ section.projects {
   -o-transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out; }
-  /* line 311, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 310, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   .button:hover {
     background: #8f6b9b;
     color: white; }
 
 @media screen and (max-width: 900px) {
-  /* line 318, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 317, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   header {
     background-attachment: initial;
     position: static;
     text-align: center; }
+    /* line 322, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+    header h1 {
+      font-size: 30px; }
 
-  /* line 324, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 327, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.about {
     height: auto;
     padding: 40px 0; }
-    /* line 328, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+    /* line 331, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
     section.about h4 {
       width: 90%; }
-    /* line 332, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+    /* line 335, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
     section.about .about-container {
       width: 100%; }
 
-  /* line 337, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 340, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.text {
     padding: 1em; }
 
-  /* line 342, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 345, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.projects .smaller, section.projects .bigger, section.projects .smaller, section.projects .full {
     width: 100%; }
-  /* line 346, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 349, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.projects .hover {
     bottom: 0;
     height: 25%;
     opacity: .8; }
-    /* line 351, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+    /* line 354, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
     section.projects .hover .border {
       border: 0; }
-      /* line 354, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+      /* line 357, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
       section.projects .hover .border h5 {
         margin: 10px 0; }
 
-  /* line 361, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 364, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   section.contact {
     padding: 1em; }
-    /* line 364, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+    /* line 367, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
     section.contact .button {
       display: block; }
-    /* line 367, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+    /* line 370, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
     section.contact h1 {
       font-size: 2em; }
-    /* line 371, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+    /* line 374, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
     section.contact .mail, section.contact h2 {
       font-size: 1em; } }
-/* line 377, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 380, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .pull-right {
   float: right; }
 
-/* line 384, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 387, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-headline {
   font-size: 3rem;
   line-height: 1.2; }
 
 @media only screen and (min-width: 768px) {
-  /* line 389, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 392, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   .cd-headline {
     font-size: 4.4rem;
     font-weight: 300; } }
 @media only screen and (min-width: 1170px) {
-  /* line 395, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+  /* line 398, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
   .cd-headline {
     font-size: 5rem; } }
-/* line 400, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 403, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-words-wrapper {
   display: inline-block;
   position: relative;
   text-align: left; }
 
-/* line 405, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 408, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-words-wrapper b {
   display: inline-block;
   position: absolute;
@@ -2945,16 +2947,16 @@ section.projects {
   top: 0;
   margin-right: .2em; }
 
-/* line 413, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 416, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-words-wrapper b.is-visible {
   position: relative; }
 
-/* line 417, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 420, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-headline.type .cd-words-wrapper {
   vertical-align: top;
   overflow: hidden; }
 
-/* line 421, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 424, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-headline.type .cd-words-wrapper::after {
   /* vertical bar */
   content: '';
@@ -2971,38 +2973,38 @@ section.projects {
   width: 1px;
   background-color: #aebcb9; }
 
-/* line 437, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 440, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-headline.type .cd-words-wrapper.waiting::after {
   -webkit-animation: cd-pulse 1s infinite;
   -moz-animation: cd-pulse 1s infinite;
   animation: cd-pulse 1s infinite; }
 
-/* line 442, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 445, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-headline.type .cd-words-wrapper.selected {
   background-color: #aebcb9; }
 
-/* line 445, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 448, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-headline.type .cd-words-wrapper.selected::after {
   visibility: hidden; }
 
-/* line 448, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 451, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-headline.type .cd-words-wrapper.selected b {
   color: #0d0d0d; }
 
-/* line 451, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 454, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-headline.type b {
   visibility: hidden; }
 
-/* line 454, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 457, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-headline.type b.is-visible {
   visibility: visible; }
 
-/* line 457, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 460, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-headline.type i {
   position: absolute;
   visibility: hidden; }
 
-/* line 461, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
+/* line 464, /Users/scarlettgarza/Documents/my_page/source/stylesheets/all.scss */
 .cd-headline.type i.in {
   position: relative;
   visibility: visible; }
